@@ -1,4 +1,4 @@
-FROM bwstitt/alpine:3.4
+FROM bwstitt/alpine:3.5
 
 RUN docker-apk-install htop
 
